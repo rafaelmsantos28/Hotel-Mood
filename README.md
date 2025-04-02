@@ -51,4 +51,4 @@ git clone https://github.com/rafaelmsantos28/Hotel-Mood.git
 
 ## 📄 Notas
 
-Este foi meu primeiro projeto em Java, feito em 2024, junto de meus amigos Brendo Motta e Leonardo Prado.
+Este foi meu primeiro projeto em Java, feito em 2024, junto de meus amigos Brendo Motta e Leonardo Prado. Agradeço a disponibilidade e toda a atenção do professor da disciplina que nos guiou durante o todo o desenvolvimento do projeto.
